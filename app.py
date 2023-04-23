@@ -17,7 +17,7 @@ app=FastAPI(
 
 @app.get('/')
 def welcome():
-    return {'version': 'v1.0', 'published':'2023', 'contributors': 'Edgard Huanca & Asami Cuéllar', 'github':'https://github.com/v1c4r10us/stream_api', 'documentation':'https://streamapi-production.up.railway.app/docs'}
+    return {'version': 'v1.0', 'published':'2023', 'contributors': 'Edgard Huanca & Asami Cuéllar', 'github':'', 'documentation':''}
 
 @app.get('/get_actual_price')
 def get_actual_price():
