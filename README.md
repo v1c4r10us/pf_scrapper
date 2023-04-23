@@ -25,7 +25,7 @@ Se dispone de los datos provenientes del portal de la Secretaría de Desarrollo 
 
 El pipeline implementado para este proyecto se basa en la siguiente arquitectura:
 
-<center><a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81o_S36k9omkXZMUOQqJkTDuFFKqreUZV6g02sM5havQS3Pa93mtkgfQUM1yTP0sOHLV-buLdZ_xZ5ZQPk3Ab7gpT2GcdQ=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81o_S36k9omkXZMUOQqJkTDuFFKqreUZV6g02sM5havQS3Pa93mtkgfQUM1yTP0sOHLV-buLdZ_xZ5ZQPk3Ab7gpT2GcdQ=s2560" /></a></center><br>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81o_S36k9omkXZMUOQqJkTDuFFKqreUZV6g02sM5havQS3Pa93mtkgfQUM1yTP0sOHLV-buLdZ_xZ5ZQPk3Ab7gpT2GcdQ=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81o_S36k9omkXZMUOQqJkTDuFFKqreUZV6g02sM5havQS3Pa93mtkgfQUM1yTP0sOHLV-buLdZ_xZ5ZQPk3Ab7gpT2GcdQ=s2560" /></a>
 
 
 ## EDA (Exploratory Data Analysis)
@@ -45,6 +45,8 @@ El pipeline implementado para este proyecto se basa en la siguiente arquitectura
 + <a href=https://www.uvicorn.org/>Uvicorn</a>
 
 + Git
+
++ <a href=https://railway.app/>Railway</a> 
 
 + GCP (DialogFlow)
 
