@@ -3,7 +3,7 @@ import interface as pred
 import json
 
 app=FastAPI(
-                title="PricePredictorAPI",
+                title="PriceAPI",
                 version="1.0",
                 contact={
                             "name": "v1c4r10us",
@@ -17,7 +17,7 @@ app=FastAPI(
 
 @app.get('/')
 def welcome():
-    return {'version': 'v1.0', 'published':'2023', 'contributors': 'Edgard Huanca & Asami Cuéllar', 'github':'', 'documentation':''}
+    return {'version': 'v1.0', 'published':'2023', 'contributors': 'Asami Cuéllar & Edgard Huanca', 'github':'https://github.com/v1c4r10us/pf_scrapper', 'documentation':'web-production-7526.up.railway.app/docs'}
 
 @app.get('/get_actual_price')
 def get_actual_price():
