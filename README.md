@@ -25,8 +25,7 @@ Se dispone de los datos provenientes del portal de la Secretaría de Desarrollo 
 
 El pipeline implementado para este proyecto se basa en la siguiente arquitectura:
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81o_S36k9omkXZMUOQqJkTDuFFKqreUZV6g02sM5havQS3Pa93mtkgfQUM1yTP0sOHLV-buLdZ_xZ5ZQPk3Ab7gpT2GcdQ=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81o_S36k9omkXZMUOQqJkTDuFFKqreUZV6g02sM5havQS3Pa93mtkgfQUM1yTP0sOHLV-buLdZ_xZ5ZQPk3Ab7gpT2GcdQ=s2560" /></a>
-
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pGbwojd8YxPwRbZ1gdNb7phnrVggMmFi8d2RV7SB_QFDPVhuKxn-ELFZVNiz9OG1ZAeC0loRXVQTVSgYEEKZZM5d1k=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pGbwojd8YxPwRbZ1gdNb7phnrVggMmFi8d2RV7SB_QFDPVhuKxn-ELFZVNiz9OG1ZAeC0loRXVQTVSgYEEKZZM5d1k=s2560" /> </a>
 
 ## EDA (Exploratory Data Analysis)
 
@@ -48,7 +47,7 @@ El pipeline implementado para este proyecto se basa en la siguiente arquitectura
 
 + <a href=https://railway.app/>Railway</a> 
 
-+ GCP (DialogFlow)
++ AWS (Amazon Lex, AWS Lambda)
 
 
 ## Endpoints
