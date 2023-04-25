@@ -69,7 +69,7 @@ curl -X 'GET' \
 
 <a href=https://web-production-7526.up.railway.app/>AQUÍ</a> se visualiza el deployment de la API Rest.
 
-## Video demo
+## Videos demo
 
-Enlace al video demostrativo <a href="https://youtu.be/QxeXjBa_K_M">AQUÍ</a>
-Enlace al video de descripción del proyecto <a href="https://youtu.be/fhWzNFVrYj0">AQUÍ</>
++ Enlace al video demostrativo <a href="https://youtu.be/QxeXjBa_K_M">AQUÍ</a>
++ Enlace al video de descripción del proyecto <a href="https://youtu.be/fhWzNFVrYj0">AQUÍ</>
